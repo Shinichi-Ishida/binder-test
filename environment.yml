@@ -2,4 +2,4 @@ name: wekopy
 channels:
   - defaults
 dependencies:
-  - matplotlib=3.5.0=py39haa95532_0
+  - matplotlib
