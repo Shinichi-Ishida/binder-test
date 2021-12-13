@@ -2,4 +2,4 @@ name: wekopy
 channels:
   - defaults
 dependencies:
-  - paramiko=2.7.2=py_0
+  - matplotlib=3.5.0=py39haa95532_0
